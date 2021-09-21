@@ -1,0 +1,2 @@
+# Solving-the-Multi_Objective_KnapSack-problem-with-DeepLearning
+The multi-objective KnapSack problem is a trending combinatorial optimisation subject that can be solved with metaheuristics, but this is computationally difficult and costly. Many researches proved that Machine Learning can be a good alternative to solve such problems by predicting the optimal solution and this work is an initiative to materialize this theory. 
