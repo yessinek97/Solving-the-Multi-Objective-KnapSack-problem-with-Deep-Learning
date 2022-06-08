@@ -5,7 +5,7 @@ The multi-objective KnapSack is a trending combinatorial optimisation problem th
 Before execution, place the provided folder 'mkpInstances' under users/maily or users/'username'
 
 # Note
-It is importnant to insist on the fact this is an initiative or a first step towards the integration of artificial intelligence in the branch of combinatorial optimization, we are open for any suggestions or critics that would help improve it.
+It is importnant to insist on the fact this is an initiative to leverage artificial intelligence (Deep Learning) in the field of combinatorial optimization, we are open for any suggestions or critics that would help improve it.
 
 # acknowledgement
 This work was done in an academic frame and under the supervision of Mrs. Imen Ben Mansour (https://scholar.google.fr/citations?user=E8gXmGcAAAAJ&hl=fr) in Esprit University of Tunisia.  
